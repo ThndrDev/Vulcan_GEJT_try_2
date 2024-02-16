@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="6daeeec2-de30-4a3a-a02b-4f3a451da122">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.4767.21868</GameVersion>
+  <DateTime>133525141727772472</DateTime>
+  <DaysPast>4</DaysPast>
+  <WorldName>Vulcan</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>Vulcan_GEJT_try_2</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>61</NumberOfRooms>
+  <NumberOfPipeNetworks>268</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>76</NumberOfCableNetworks>
+  <NumberOfThings>18718</NumberOfThings>
+  <NumberOfAtmospheres>3469</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
