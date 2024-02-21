@@ -2,7 +2,7 @@
 <WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="6daeeec2-de30-4a3a-a02b-4f3a451da122">
   <Game>Assembly-CSharp</Game>
   <GameVersion>0.2.4767.21868</GameVersion>
-  <DateTime>133525242774663938</DateTime>
+  <DateTime>133530279263304813</DateTime>
   <DaysPast>4</DaysPast>
   <WorldName>Vulcan</WorldName>
   <IsOnAwayMission>false</IsOnAwayMission>
@@ -12,7 +12,7 @@
   <NumberOfRooms>61</NumberOfRooms>
   <NumberOfPipeNetworks>268</NumberOfPipeNetworks>
   <NumberOfCableNetworks>80</NumberOfCableNetworks>
-  <NumberOfThings>18890</NumberOfThings>
-  <NumberOfAtmospheres>3446</NumberOfAtmospheres>
+  <NumberOfThings>18855</NumberOfThings>
+  <NumberOfAtmospheres>3441</NumberOfAtmospheres>
   <NumberOfAsteriods>0</NumberOfAsteriods>
 </WorldMetaData>
